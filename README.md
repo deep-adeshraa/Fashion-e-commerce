@@ -1,4 +1,4 @@
-# Project Group 5
+# Project Group 5 - CSCI-5709 - Advanced web services - Associated with [Dalhousie University](dal.ca)
 
 It is a web-based e-commerce application which helps men, women and kids satisfy their fashion needs and
 provides them a single stop destination to purchase clothes and apparel.
