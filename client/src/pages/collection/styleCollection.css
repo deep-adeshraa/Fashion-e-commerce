@@ -1,0 +1,17 @@
+.col1{
+    margin-top:10 ;
+    margin-bottom: 12;
+}
+
+.collection{
+    display: flex;
+    flex-direction: column;
+}
+
+.col1-col{
+    margin-top: 5rem;
+}
+
+.img-thumbnail-1{
+    min-height: 350px;
+}

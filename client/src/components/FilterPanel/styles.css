@@ -1,0 +1,18 @@
+/* Author: Manan Amin (B00897712) */
+
+
+.label {
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+  }
+  .filter-parent{
+  display: flex; 
+  flex-direction: column; 
+  }
+  .filter-group {
+    margin-bottom: 2rem;
+  }
+  .label-range {
+    margin-bottom: 4rem;
+    font-weight: 600;
+  }
